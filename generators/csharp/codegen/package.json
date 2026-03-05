@@ -34,7 +34,7 @@
     "@fern-api/browser-compatible-base-generator": "workspace:*",
     "@fern-api/core-utils": "workspace:*",
     "@fern-fern/ir-sdk": "^58.2.0",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.17.23",
     "zod": "^3.22.3"
   },
   "devDependencies": {
