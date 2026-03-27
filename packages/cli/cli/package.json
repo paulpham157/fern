@@ -129,7 +129,7 @@
     "url-join": "^5.0.0",
     "validate-npm-package-name": "^5.0.1",
     "vitest": "^2.1.9",
-    "yaml": "^2.4.5",
+    "yaml": "^2.8.3",
     "yargs": "^17.4.1"
   }
 }
