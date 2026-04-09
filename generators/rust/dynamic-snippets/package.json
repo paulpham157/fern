@@ -39,7 +39,7 @@
     "@yarnpkg/esbuild-plugin-pnp": "3.0.0-rc.15",
     "depcheck": "^1.4.7",
     "esbuild": "^0.24.0",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.18.1",
     "typescript": "5.8.3",
     "vitest": "^2.1.9"
   }
