@@ -39,7 +39,7 @@
         "test:wire": "jest --selectProjects wire"
     },
     "dependencies": {
-        "lodash": "4.17.21"
+        "lodash": "4.18.1"
     },
     "devDependencies": {
         "webpack": "^5.97.1",
